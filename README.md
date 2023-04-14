@@ -2,6 +2,20 @@
 
 TikTok for desktop is the same TikTok but for Windows as desktop application
 
+TikTok windows desktop is a video-sharing social networking service
+
+TikTok desktop allows to create and upload content from windows desktop.
+
+1.   Perks of having TikTok windows App:
+     - An icon on your quick access spots
+     - One-click launch
+     - No need for an open browser tab
+     - You can on TikTok desktop rewind video
+
+TikTok desktop works on Windos 7, Widows 8, Windows 10, Windows 11.
+
+What are you waiting for? Hit Download and open up TikTok App on your Windows platform Desktop or Laptop.
+
 ## Installation
 
 You can install TikTok desktop on Windows by running the installer of latest [release](https://github.com/AppsForDesktop/TikTok-desktop/releases/download/1.0.0/TikTok.desktop.install.exe).
@@ -12,11 +26,9 @@ Run the "TikTok.desktop.install.exe" and follow installation instructions.
 
 ## For professionals
 
-You can build whole application from source code. For that you will need:
-
-Visual studio 2019 with support to build .NET Framework 4.6
-
-If you would like to create such installer as in release, you will need NSIS 2.5.1.
+2.   You can build whole application from source code. For that you will need:
+     - Visual studio 2019 with support to build .NET Framework 4.6
+     - If you would like to create such installer as in release, you will need NSIS 2.5.1.
 
 Run Developer Command Prompt for VS 2019
 
